@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+streamlit
+numpy
+Pillow
+flask
+keras ~= 3.2.1
+tensorflow ~= 2.16.1
