@@ -4,5 +4,5 @@ streamlit
 numpy
 Pillow
 flask
-keras ~= 3.2.1
-tensorflow ~= 2.16.1
+keras ~= 2.6.0
+tensorflow ~= 2.6.0
